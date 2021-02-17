@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herdar-VS-CumprirContrato", "Herdar-VS-CumprirContrato\Herdar-VS-CumprirContrato.csproj", "{7044E0A8-FDA7-4AC5-B8CA-AFB781D32886}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7044E0A8-FDA7-4AC5-B8CA-AFB781D32886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7044E0A8-FDA7-4AC5-B8CA-AFB781D32886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7044E0A8-FDA7-4AC5-B8CA-AFB781D32886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7044E0A8-FDA7-4AC5-B8CA-AFB781D32886}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A33494CE-DDAA-40B7-B0F5-D03FA882327F}
+	EndGlobalSection
+EndGlobal
